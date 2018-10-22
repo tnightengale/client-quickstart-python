@@ -78,7 +78,7 @@ There's just a few more steps to get Twilio's voice infrastructure talking to yo
 2. Run ngrok:
 
     ```bash
-    ngrok http 5000
+    ./ngrok http 5000
     ```
 
 3. When ngrok starts up, it will assign a unique URL to your tunnel.
